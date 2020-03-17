@@ -1,0 +1,7 @@
+# Twitter Sentiment Analysis
+
+Sentiment Analysis, commonly refered to as “Opinion Mining, refers to the use of Natural Language Processing to determine the attitude, opinions and emotions attached to an expression, whether spoken or written, or to any other subject within an online mention. Or simply put, it is a process of determining whether a piece of writing is positive or negative. This is known as the "Polarity" of the content.
+
+Humans have a natural abilty to classify text or speech as positive or negative. For example, the sentence “You have very lovely smile”, will most likely be interpreted as a positive statement (sentiment), while the expression "This movie was a waste of time" is likely to be classified as negative statement (sentiment). Intuitively, we arrive to such conclusions by examining the words and averaging out the positives and the negatives. For instance, the words “beautiful” and “smile” are typically used in a positive context, while words like “waste”, usually have a negative connotation.
+
+A common use for this technology comes from its deployment in the social media space to discover how people feel about certain topics, particularly through users’ word-of-mouth in textual posts, or in the context of Twitter, their tweets.
